@@ -1,1 +1,3 @@
-This is my first git repository. Author - Yashasvi Srivastava
+This is my first git repository. 
+<br>
+Author - Yashasvi Srivastava
